@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>              
+<!-- CORE PATCHES -->
+                <Operation Class="PatchOperationAdd">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[defName="Crib"]</xpath>
+                    <value>
+                        <designationCategory>Ferny_Childhood</designationCategory>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[defName="Blackboard"]/designationCategory</xpath>
+                    <value>
+                        <designationCategory>Ferny_Childhood</designationCategory>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[defName="ToyBox"]/designationCategory</xpath>
+                    <value>
+                        <designationCategory>Ferny_Childhood</designationCategory>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[defName="BabyDecoration"]/designationCategory</xpath>
+                    <value>
+                        <designationCategory>Ferny_Childhood</designationCategory>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationReplace">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[defName="GrowthVat"]/designationCategory</xpath>
+                    <value>
+                        <designationCategory>Ferny_Childhood</designationCategory>
+                    </value>
+                </Operation>
+                <Operation Class="PatchOperationAdd">
+                    <success>Always</success>
+                    <xpath>Defs/ThingDef[defName="BabySleepingSpot"]</xpath>
+                    <value>
+                        <designationCategory>Ferny_Childhood</designationCategory>
+                    </value>
+                </Operation>
+</Patch>

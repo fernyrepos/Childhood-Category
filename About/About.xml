@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Childhood Category</name>
+	<author>ferny</author>
+	<packageId>ferny.childhoodcategory</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>Adds a "Childhood" category.</description>
+	<loadAfter>
+		<li>Ludeon.Rimworld</li>
+		<li>Ludeon.Rimworld.Royalty</li>
+		<li>Ludeon.Rimworld.Ideology</li>
+		<li>Ludeon.Rimworld.Biotech</li>
+		<li>Ludeon.Rimworld.Anomaly</li>
+		<li>smartkar.enhancedvatlearning</li>
+		<li>tribalcrib.mod</li>
+	</loadAfter>
+</ModMetaData>

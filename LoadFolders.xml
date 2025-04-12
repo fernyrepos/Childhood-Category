@@ -1,0 +1,12 @@
+<loadFolders>
+  <v1.4>
+    <li>/</li>
+    <li IfModActive="smartkar.enhancedvatlearning">Mods and Shit/Enhanced Vat Learning</li>
+    <li IfModActive="tribalcrib.mod">Mods and Shit/Tribal Crib</li>
+  </v1.4>
+  <v1.5>
+    <li>/</li>
+    <li IfModActive="smartkar.enhancedvatlearning">Mods and Shit/Enhanced Vat Learning</li>
+    <li IfModActive="tribalcrib.mod">Mods and Shit/Tribal Crib</li>
+  </v1.5>
+</loadFolders>
